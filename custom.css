@@ -1,0 +1,807 @@
+* {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    margin: 0
+}
+
+
+/* home page css start */
+.logo {
+    width: 200px;
+    height: 70.12px;
+    top: 15.31px;
+    left: 140px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+
+.home {
+    font-size: 16px;
+    color: #0388A6 !important;
+    margin: 0px 17px 0px 17px !important;
+}
+
+.login-b {
+    border: 2px solid #F26530;
+    padding: 2px 8px;
+    border-radius: 0;
+    color: #0388A6 !important;
+    font-weight: 700;
+    margin: 0px 17px 0px 17px;
+}
+
+.pho {
+    background-color: #F26530;
+    font-size: 12px;
+    margin: 0px 17px 0px 17px;
+
+}
+
+.pho:hover{
+    border-color: #0388A6;
+    color: black !important;
+}
+
+.active {
+    color: white;
+    border-bottom: 2px solid #2196f3;
+    
+  }
+
+ 
+
+.staff {
+    font-weight: 600;
+    color: #201E59;
+    line-height: 70px;
+    padding-top: 100px;
+    padding-left: 100px;
+}
+
+
+.care {
+    font-weight: 600;
+    color: #F26530;
+}
+
+.confer {
+    font-size: 18px;
+    line-height: 32px;
+    padding-top: 42px;
+    padding-left: 100px;
+    margin-bottom: 45px;
+}
+
+.now {
+    margin-left: 100px;
+    text-decoration: none;
+    color: white;
+    background-color: #F26530;
+    padding: 10px 26px;
+    box-shadow: 0px 10px 40px 0px #F2653033;
+
+}
+
+.imgr {
+    padding-left: 100px;
+}
+
+.confer2 {
+    font-size: 18px;
+    line-height: 32px;
+    padding-top: 42px;
+    margin-bottom: 45px;
+}
+
+.staff2 {
+    font-weight: 600;
+    color: #201E59;
+    line-height: 45px;
+    padding-top: 197px;
+
+}
+
+.now2 {
+    text-decoration: none;
+    color: white;
+    background-color: #F26530;
+    padding: 10px 26px;
+    box-shadow: 0px 10px 40px 0px #F2653033;
+
+}
+
+.do {
+    color: #F26530;
+    border-bottom: 1px solid #F26530;
+    position: absolute;
+    top: 78px;
+    right: 588px;
+}
+
+.do2 {
+    font-size: 73px;
+    color: #ef6d6d4f;
+    opacity: 0.3;
+
+}
+
+
+.clinic {
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.bgc {
+    background-color: #ef6d6d24;
+}
+
+.maid {
+    background: #F265301A;
+}
+
+.p-care {
+    background: #0A89A6;
+    ;
+}
+
+.p-care span {
+    padding-right: 80px;
+}
+
+.promise {
+    color: #F26530;
+    font-size: 22px;
+}
+
+.ouro {
+    font-size: 40px;
+}
+
+.content {
+    content: '';
+    width: 156px;
+    border: 2px solid #F26530;
+    height: 9px;
+    background-color: #F26530;
+}
+
+.content1 {
+    content: '';
+    width: 9px;
+    border: 2px solid #F26530;
+    margin: 0px 3px;
+    height: 9px;
+    background-color: #F26530;
+}
+
+.fullfill {
+    font-size: 18px;
+    line-height: 26px;
+    letter-spacing: 2px;
+    font-weight: 600;
+}
+
+.youcan {
+    font-size: 21px;
+    color: #0389A6;
+    display: inline-block;
+    padding-right: 67px;
+    padding-bottom: 40px;
+}
+
+.start {
+    font-size: 38px;
+    line-height: 47px;
+    color: #1F1E58;
+}
+
+
+.fab {
+    box-shadow: 0px 10px 24px 0px #0389A629;
+    padding: 32px;
+    background: #ECFCFF21;
+
+
+}
+
+
+.join {
+    font-size: 17px;
+    line-height: 32px;
+    color: #0389A6;
+}
+
+.fab2 {
+    background-color: #69C4D957;
+    width: 1070px;
+    padding: 60px;
+
+}
+
+.end-button {
+    padding-right: 80px;
+}
+
+
+.target {
+    font-size: 115px;
+    letter-spacing: 10px;
+    font-weight: 600;
+    color: #F265300D;
+}
+
+.tlight {
+    color: #1F1E58;
+    border-bottom: 1px solid #F26530;
+    position: absolute;
+    top: 95px;
+    right: 453px;
+}
+
+.india {
+    color: #F26530;
+    font-size: 20px;
+}
+
+.india2 {
+    background-color: #3fa2b9;
+    ;
+    border-radius: 0 0 0 40px;
+}
+
+
+
+.west {
+    box-shadow: 0px 4px 61px 0px #0389A633;
+    border-radius: 0 0 100px 0;
+    margin-top: 88px;
+    margin-bottom: 50px;
+}
+
+.westc {
+    padding: 68px;
+}
+
+.healthcare {
+    color: #0389A6;
+    margin-top: 22px;
+    margin-bottom: 33px;
+    font-size: 21px;
+}
+
+.face {
+    font-size: 24px;
+    color: #18608C;
+    margin-right: 23px;
+}
+
+
+.num {
+    font-size: 17px;
+    color: #0389A6;
+}
+
+.lastrow {
+    background-color: #6ac4d92b;
+}
+
+.foot {
+    background: #CBEBF2;
+    padding: 20px 0px;
+
+}
+
+.foot span {
+    font-size: 15px;
+    font-weight: 600;
+    color: #0389A6;
+
+}
+
+
+/* home page css end */
+/* aboutus page css start */
+.about {
+
+    padding-left: 135px !important;
+}
+
+.advocate {
+    padding-left: 135px !important;
+}
+
+.ill {
+    margin-left: 135px !important;
+}
+
+.sitter {
+    color: #0388A6;
+}
+
+.comit {
+    font-size: 18px;
+    line-height: 38px;
+}
+
+.bg-companey {
+    background-image: url(/photos/about\ bg\ image.png);
+    background-position: center;
+    background-size: cover;
+    height: 474px;
+}
+
+.pill {
+    background-color: #F26530 !important;
+}
+
+.percent {
+    height: 123px;
+    padding-top: 33px;
+    background: #0389A67A;
+
+}
+
+.concern {
+    box-shadow: 0px 10px 30px 0px #0389A633;
+}
+
+.ref {
+    color: #0388A6;
+}
+
+.nurse-pic {
+    padding-left: 76px;
+}
+
+.sick {
+    background-color: #F265301A;
+
+}
+
+.blank{
+    display: block;
+    content: ' ';
+    width: 187px;
+    border: 2px solid #F26530;
+    background: #F26530;
+    height: 6px;
+    position: absolute;
+    top: 150px;
+    left: 141px;
+}
+
+
+.blank2{
+    display: block;
+    content: ' ';
+    width: 355px;
+    border: 2px solid #0389a682;
+    background:  #0389a682;
+    height: 8px;
+    position: absolute;
+    top: 35px;
+    left: 10px;
+}
+
+
+.optimal{
+    padding: 35px;
+    background: #69C4D96E;
+
+    width: 1141px;
+}
+
+.hand {
+    border: 1px solid;
+    border-image-source: linear-gradient(180deg, rgba(242, 101, 48, 0) 0%, #F26530 100%);
+
+}
+
+.alice{
+    background: #0389A6;
+    margin: 0px 30px;
+}
+
+/* aboutpage css end */
+/* contact page css end */
+
+.cu{
+    border: 1px solid #0389A6;
+    border-radius: 0 0 0 100px;
+    padding-bottom: 20px;
+}
+
+.cu1{
+    
+    background-color: #0388A6;
+    padding: 100px 0px;
+    border-radius: 0 0 0 100px;
+
+}
+
+.phonecall{
+      
+    box-shadow: 0px 10px 30px 0px #0389A629;
+    height: 135px;
+
+}
+
+.phonecall i{
+    background:#F26530 ;
+}
+
+.form-row{
+    background-color: #69C4D912;
+    ;
+    box-shadow: 0px 10px 40px 0px #0000001A;
+    color: #69C4D912;
+    ;
+
+}
+
+.form-w{
+    width: 135px;
+    box-shadow: 0px 10px 40px 0px #F2653033;
+    background-color:  #F26530 !important ;
+    border-color: #F26530 ;
+}
+
+/* contact page css end */
+/* job searc page css start */
+
+.jobbg{
+    background-image: url(photos/bg.png);
+    background-position: center;
+    background-size: cover;
+    height: 512px;
+}
+
+.imgp{
+    padding-top: 35px;
+}
+
+.inquiry{
+    color: #F26530;
+}
+
+/* jobsearch css page end */
+
+.oldbg{
+    background-image: url(photos/old-bg.png);
+    background-position: center;
+    background-size: cover;
+    height: 406px;
+}
+
+.bg-list{
+    background-image: url(photos/bg\ job\ list.png);
+    background-size: cover;
+    background-position: center;
+    height: 247px;
+}
+
+.job-para{
+    background: #FAFEFF1A;
+    box-shadow: 0px 10px 40px 0px #0389A629;
+    height: 220px;
+
+}
+
+.user{
+    color:#F26530 !important;
+}
+/* job search css end */
+/* profile css start */
+
+.profilebg{
+    background-image: url(photos/profilebg.png);
+    background-position: center;
+    background-size: cover;
+    height:220px;
+}
+
+.form-row2{
+    box-shadow: 0px 10px 42px 0px #0A89A624;
+    padding-right:  150px;
+    padding-left:  150px;
+    padding-top:  73px !important;
+    position: absolute;
+    top: -75px;
+
+
+}
+
+.formimg{
+    position: absolute;
+    width: 300px;
+    top: -54px;
+    left: -76px;
+}
+
+.form-style{
+    background: #FEEEE8;
+    box-shadow: 0px 10px 33px 0px #F265301A;
+
+}
+.dropmenu{
+    box-shadow: 0px 10px 34px 0px #0A89A633;
+    top: 57px !important;
+    left: -63px !important;
+}
+
+/* profile css end */
+/* my job css start */
+.myjobbg{
+    background-image: url(photos/myjob-bg.png);
+    background-position: center;
+    background-size: cover;
+    height: 176px;
+}
+
+.badge-color{
+    background: #F2653052;
+    color: #F26530;
+
+}
+
+.saved{
+    box-shadow: 0px 10px 30px 0px #F2653033;
+    width: 650px;
+    justify-content: space-between;
+}
+
+.button-border{
+    border-bottom: 2px solid #0A89A6;
+    border-radius: 0;
+}
+
+.provider{
+    
+   color:#0A89A6;
+}
+
+.update-status{
+    width: 152px;
+    box-shadow: 0px 10px 40px 0px #F2653033;
+    background-color: #F26530 !important;
+    border-color: #F26530
+}
+
+.signup-bg{
+    background-image: url(photos/signupbg.png);
+    background-position: center;
+    background-size: cover;
+    height: 610px;
+}
+
+.myicon{
+    position: relative;
+}
+.myicon:before {
+    content: "\f007";
+    font-family: "Font Awesome 5 Free";
+    position: absolute;
+    top: 15px;
+    left: 510px;
+}
+
+.myicon2{
+    position: relative;
+}
+.myicon2:before {
+    content: "\f070";
+    font-family: "Font Awesome 5 Free";
+    position: absolute;
+    top: 15px;
+    left: 510px;
+}
+
+.myicon3{
+    position: relative;
+}
+.myicon3:before {
+    content: "\4d";
+    font-family: "Font Awesome 5 Free";
+    position: absolute;
+    top: 15px;
+    left: 510px;
+}
+
+.signup-padding{
+    padding-top: 100px;
+}
+
+.login-bg{
+    background-image: url(photos/loginbg.png);
+    background-position: center;
+    background-size: cover;
+    height: 610px;
+}
+
+.forget-bg{
+    background-image: url(photos/forgetpassbg.png);
+    background-position: center;
+    background-size: cover;
+    height: 411px;
+    width: 244px
+    ;
+}
+
+.forget-button{
+    width: 100%;
+    box-shadow: 0px 10px 40px 0px #F2653033;
+    background-color: #F26530 !important;
+    border-color: #F26530
+}
+
+.pass-bg{
+    background-image: url(photos/changepassbg.png);
+    background-position: center;
+    background-size: cover;
+    height: 411px;
+    width: 244px
+    ;
+}
+
+.passicon{
+    position: relative;
+}
+
+.passicon:before {
+    content: "\f070";
+    font-family: "Font Awesome 5 Free";
+    position: absolute;
+    top: 15px;
+    left: 410px;
+}
+
+
+
+@media screen and (max-width:1400px) {
+    .up {
+        width: 560px !important;
+
+    }
+}
+/* 
+@media screen and (min-width:400px) and (max-width:968px) {
+   .staff{
+    padding-left: 20px;
+   }
+
+   .staff2{
+    padding-top: 0px;
+   }
+
+   .confer{
+    padding-left: 20px;
+   }
+
+   .now{
+    margin-left: 20px;
+   }
+
+   .imgr{
+    padding-left: 20px;
+   }
+
+   .up{
+    width: 350px !important;
+   }
+
+   .fab2{
+    width: 333px;
+   }
+
+ .target{
+    font-size: 95px;
+ }
+
+
+} */
+
+@media screen and (max-width:510px){
+    .saved{
+        width: 400px;
+    }
+}
+
+@media screen and (max-width:1024px){
+    .form-row2{
+        padding: 0;
+    }
+
+    .formimg{
+        width: 168px;
+    }
+
+    .about{
+        padding-left: 0 !important;
+    }
+
+    .advocate{
+        padding-left: 0 !important;
+    }
+
+    .ill{
+        margin-left: 0 !important;
+    }
+
+    .staff{
+        padding-top: 0;
+    }
+
+    .alice{
+        margin: 0;
+    }
+
+    .imgr{
+        padding-left: 0;
+    }
+
+    .nurse-pic{
+        padding-left: 0;
+    }
+
+    .up{
+        width: 376px !important;
+    }
+
+    .mainim{
+        width: 358px;
+    }
+
+    .bestjob{
+        padding-top: 45px;
+    }
+
+    .confer{
+        padding-left: 0;
+    }
+
+    .staff{
+        padding-left: 0;
+    }
+
+    .staff2{
+        padding-top: 0;
+    }
+
+    .now{
+        margin-left: 0;
+    }
+}
+
+
+@media screen and (max-width:768px){
+    .fab2{
+        width: 347px;
+        padding: 16px;
+    }
+
+    .target{
+        font-size: 80px;
+    }
+
+    .myicon::before{
+        left: 250px;
+    }
+
+    .myicon2::before{
+        left: 250px;
+    }
+
+    .myicon3::before{
+        left: 250px;
+    }
+    
+}
+
+
+
+@media screen and (min-width:1024px){
+    .imgr{
+        padding-left: 100px;
+    }
+}
